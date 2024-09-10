@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://laebbo.github.io/bzU/sitemap.bzU.gz
